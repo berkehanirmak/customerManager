@@ -1,0 +1,10 @@
+.App{
+  padding: 30px;
+  background-color: white;
+  border-radius: 20px;
+  max-height: 400px; 
+  overflow-y: auto; /* Kaydırma çubuğunu etkinleştirir */
+}
+.App h1{
+  margin-bottom: 20px;
+}
